@@ -2,12 +2,19 @@
 Maximal Square / Rectangle Problems
 
 CHRISTOPHER YOU
+
 Maximal Square / Maximal Rectangle Problems
+
 PROGRAMMING ASSIGNMENT - COT 5405
+
 Task1: O(mn) Dynamic Programming algorithm for Maximal Square of height h with O(mn) extra space
+
 Task2: BottomUp implementation of Task1 using O(n) space.
+
 Task3: O(m^3 n^3) Brute Force of Maximal Rectangle with at least height h using O(1) space.
+
 Task4: O(mn) Maximal Rectangle with at least height h using O(mn) space
+
 Task5: Task4 but with O(n) space.
 
 To compile:
